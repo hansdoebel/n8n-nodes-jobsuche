@@ -3,7 +3,7 @@
 	"version": "0.1.0",
 	"description": "n8n community node for the Arbeitsagentur Jobsuche API - search German job listings",
 	"license": "MIT",
-	"homepage": "https://github.com/bundesAPI/jobsuche-api",
+	"homepage": "https://github.com/hansdoebel/n8n-nodes-jobsuche",
 	"keywords": [
 		"n8n-community-node-package"
 	],
@@ -13,10 +13,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/hans/n8n-nodes-jobsuche.git"
+		"url": "https://github.com/hansdoebel/n8n-nodes-jobsuche.git"
 	},
 	"bugs": {
-		"url": "https://github.com/hansdoebel/n8n-nodes-onepassword/issues"
+		"url": "https://github.com/hansdoebel/n8n-nodes-jobsuche/issues"
 	},
 	"funding": {
 		"type": "buymeacoffee",
